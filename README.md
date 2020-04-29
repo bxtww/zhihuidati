@@ -1,4 +1,4 @@
-# 智慧答题 （学习强国挑战答题，学习、测试、搜索答案）
+## 智慧答题 （学习强国挑战答题，学习、测试、搜索答案）
 
 [高速下载《智慧答题v1.0》](https://cdn.jsdelivr.net/gh/aiyotu/zhihuidati@master/%E6%99%BA%E6%85%A7%E7%AD%94%E9%A2%98v1.0.7z)
 
