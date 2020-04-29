@@ -8,4 +8,4 @@
  
 ### 有杀软误报，建议使用：[火绒安全](https://www.huorong.cn/person5.html)
 
-![image](https://ftp.bmp.ovh/imgs/2020/04/6630a28612a562fe.jpg)
+![image](https://s1.ax1x.com/2020/04/29/J7cnPg.jpg)
