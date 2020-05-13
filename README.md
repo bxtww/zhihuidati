@@ -9,13 +9,13 @@
 
 文件名称 :智慧答题v1.0.7z
 
-文件大小 :1503863 byte
+文件大小 :1503754 byte
 
 文件类型 :7-zip archive data
 
-MD5:3b96d9ddbb7b08c8fd7c93dbaf93e89e
+MD5:fb10c9d8c2ab5fd0f7c0eb9c9b3702d3
 
-[VirScan 扫描安全](https://r.virscan.org/language/zh-cn/report/9f66f8b792ce021c4a3abb442857b9e6)
+[VirScan 扫描安全](https://r.virscan.org/language/zh-cn/report/9e960e47f238f18672aafc979476d8bb)
 
 ## 智慧学习 （学习强国自动学习，完成阅读及视听任务）
 
@@ -30,12 +30,12 @@ MD5:3b96d9ddbb7b08c8fd7c93dbaf93e89e
 
 文件名称 :智慧学习 Beta.7z
 
-文件大小 :1051813 byte
+文件大小 :1051849 byte
 
 文件类型 :7-zip archive data
 
-MD5:7f80a2c5b2d4f670da5c5a05665e9200
+MD5:303e7b64a7594ebd878a060d8436fdb7
 
-[VirScan 扫描安全](https://r.virscan.org/language/zh-cn/report/dc1939c00f93be9f2efd2b235e104922)
+[VirScan 扫描安全](https://r.virscan.org/language/zh-cn/report/2622b39450fbf63ca5bbaf38d0ad3f12)
 
 ### 如有安全软件拦截，纯属误报，请使用[火绒安全](https://www.huorong.cn/person5.html)
